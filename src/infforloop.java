@@ -5,7 +5,7 @@
 *email midhapulkit28@gmail.com
 *date 14-Jun-2019
 */
-public class forloopexperiment {
+public class infforloop {
 
 	public static void main(String[] args) {
 		int i=2;
